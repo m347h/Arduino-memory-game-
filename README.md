@@ -25,7 +25,9 @@ Steps:
 
 1️⃣ Connect the circuit as shown at: https://projects.arduinocontent.cc/14ad7b92-a53e-4a81-a785-311e88dcb753.jpg
 
+
 2️⃣ Paste the source code into your Arduino editor and upload it to the board 
+
 
 3️⃣ Play the game!
 
