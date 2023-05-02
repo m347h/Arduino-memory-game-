@@ -6,23 +6,24 @@ How to play:
 You will need: (checklist)
 
 
-1️⃣ ❏ Arduino UNO ✓ ✗
+  ❏ Arduino UNO ✓ ✗
 
-2️⃣ ❏ BreadBoard (Full size) ✓ ✗
+  ❏ BreadBoard (Full size)  
 
-3️⃣ ❏ Mini speaker ✓ ✗
+  ❏ Mini speaker  
 
-4️⃣ ❏ Assorted LEDs ✓ ✗
+  ❏ Assorted LEDs 
 
-5️⃣ ❏ Jumper wires (generic) ✓ ✗
+  ❏ Jumper wires (generic)  
 
-6️⃣ ❏ 330 ohm resistors ✓ ✗
+  ❏ 330 ohm resistors  
 
-7️⃣ ❏ 10k ohm resistors ✓ ✗
+  ❏ 10k ohm resistors  
 
 
 Steps: 
-1️⃣ 
+1️⃣ Connect the circuit as shown at: https://projects.arduinocontent.cc/14ad7b92-a53e-4a81-a785-311e88dcb753.jpg
+2️⃣ Paste the source code into your Arduino editor and upload it to the board 
+3️⃣ Play the game!
 
-2️⃣
-
+ 
